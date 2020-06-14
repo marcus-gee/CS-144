@@ -11,3 +11,5 @@ what do networks actually look like (and why do they all look the same)? How do 
 spread the way they do? How does web advertising work? For all these questions and more, the course will provide a 
 mixture of both mathematical analysis and hands-on labs. The course assumes students are comfortable with graph theory, 
 probability, and basic programming."
+
+Course completed: Winter 2019-20
